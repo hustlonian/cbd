@@ -47,25 +47,27 @@
 }
 </style>
 </head>
-<body style="font-family:Verdana;">
+<body style="font-family:Verdana; max-width:960px; margin:auto">
 
 <div style="background-color:#f1f1f1;padding:15px;">
-  <h1>Cinque Terre</h1>
-  <h3>Resize the browser window</h3>
+  <h1>Is CBD Oil safe for my family and pets?</h1>
 </div>
 
 <div style="overflow:auto">
   <div class="menu">
-    <div class="menuitem">The Walk</div>
-    <div class="menuitem">Transport</div>
-    <div class="menuitem">History</div>
-    <div class="menuitem">Gallery</div>
+    <div class="menuitem">Elderly Patients / Kids</div>
+    <div class="menuitem">Its Effect On Dogs And Cats</div>
+    <div class="menuitem">PRODUCTS</div>
   </div>
 
   <div class="main">
-    <h2>The Walk</h2>
-    <p>The walk from Monterosso to Riomaggiore will take you approximately two hours, give or take an hour depending on the weather conditions and your physical shape.</p>
-    <img src="img_5terre.jpg" style="width:100%">
+      
+      <iframe width="100%" height="360" src="https://www.youtube.com/embed/LWGWcG_79Dw" frameborder="0" allowfullscreen="0" style='padding-top:8px'></iframe>
+    <p>The healing properties of Cannabis have been known for over 2000 years. CBD oil, also known as hemp oil, is derived from the same plant that gives us marijuana, however, it does not contain THC. For this reason, our products do not produce the same euphoric "high" associated with smoking pot(not to saying that would be a bad thing). You should start incorporating this wonder herb into your diet today! No prescription is needed.</p>
+    
+    
+    
+    
   </div>
 
   <div class="right">
